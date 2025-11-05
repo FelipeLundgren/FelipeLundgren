@@ -4,8 +4,8 @@ Desenvolvedor Unity/C# na BSAtech, com foco em unity e consumo de API. Sou estud
 
 # Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelundgren-bsatech&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelundgren-bsatech&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeLundgren&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLundgren&layout=compact&theme=radical)
 
 
 # Ferramentas e tecnologias
