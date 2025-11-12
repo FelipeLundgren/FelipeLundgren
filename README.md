@@ -13,8 +13,8 @@ Sou apaixonado por tecnologia, gosto de explorar novas ferramentas e entender co
 <div align="center">
   
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeLundgren&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLundgren&layout=compact&theme=tokyonight&hide=html,css,shader,jupyter%20notebook&langs_count=6)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLundgren&layout=compact&langs_count=10&theme=dark&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLundgren&layout=compact&theme=tokyonight&hide=html,css,shader,jupyter%20notebook&langs_count=8)
+
 
 </div>
 
