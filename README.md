@@ -11,6 +11,7 @@ Sou apaixonado por tecnologia, gosto de explorar novas ferramentas e entender co
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
+  
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
