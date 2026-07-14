@@ -8,14 +8,6 @@ Sou apaixonado por tecnologia, gosto de explorar novas ferramentas e entender co
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLundgren&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLundgren&layout=compact&theme=tokyonight&hide=html,css,shader,jupyter%20notebook&langs_count=8" />
-</div>
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
