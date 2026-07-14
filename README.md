@@ -32,11 +32,9 @@ Sou apaixonado por tecnologia e por criar soluções que gerem impacto, sempre b
 
 ## 🚀 Foco atual
 
-💻 **Desenvolvimento Full Stack**
-🧪 **Quality Assurance (QA) e Testes Automatizados**
+💻 **Desenvolvimento Full Stack**<br>
+🧪 **Quality Assurance (QA) e Testes Automatizados**<br>
 🎮 Desenvolvimento de jogos com **Unity + C#**
-
-
 
 ---
 
