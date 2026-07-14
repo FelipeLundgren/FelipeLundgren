@@ -1,10 +1,13 @@
 # 👋 Sobre mim
 
-Sou **Desenvolvedor Unity/C# na BSAtech**, com foco em **desenvolvimento de jogos e integração com APIs**.  
-Atualmente curso **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** e sou formado em **Programação Full-Stack** pela *Infinity School*.  
+Sou **QA Júnior**, com foco em **qualidade de software, testes automatizados e melhoria contínua de processos**. Também direciono minha carreira para **Desenvolvimento Full Stack**, buscando ampliar minha experiência na construção de aplicações completas.
 
-Tenho experiência em projetos acadêmicos e independentes que envolvem **jogos, análise de dados, front-end e back-end**, sempre buscando aplicar o que aprendo de forma prática.  
-Sou apaixonado por tecnologia, gosto de explorar novas ferramentas e entender como elas podem **resolver problemas do mundo real**.
+Atualmente curso **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** e sou formado em **Programação Full Stack** pela *Infinity School*.
+
+Ao longo da minha trajetória, participei de projetos envolvendo **desenvolvimento web, APIs, bancos de dados e desenvolvimento de jogos com Unity**, aplicando boas práticas de desenvolvimento e qualidade de software.
+
+Sou apaixonado por tecnologia e por criar soluções que gerem impacto, sempre buscando aprimorar meus conhecimentos em **QA, automação de testes, desenvolvimento Full Stack e arquitetura de software**.
+
 
 ---
 
@@ -29,9 +32,11 @@ Sou apaixonado por tecnologia, gosto de explorar novas ferramentas e entender co
 
 ## 🚀 Foco atual
 
-🎮 Desenvolvimento de jogos com **Unity + C#**  
-⚙️ Integração de **APIs** e **back-end com FastAPI e MySQL**  
-🌐 Aprimorando **boas práticas de código e arquitetura de projetos**  
+💻 **Desenvolvimento Full Stack**
+🧪 **Quality Assurance (QA) e Testes Automatizados**
+🎮 Desenvolvimento de jogos com **Unity + C#**
+
+
 
 ---
 
